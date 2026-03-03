@@ -1,0 +1,9 @@
+^\.git
+^\.github
+\.swp$
+\.bak$
+.*\.md
+.*\.sh
+.*\.png
+.gitignore
+.DS_Store
